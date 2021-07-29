@@ -40,3 +40,17 @@ span {
     font-weight: 400;
     color: #E67C40;
 }
+
+/* ----------client part css ------------- 
+ -----------------------------------*/
+
+.bg-color {
+    background-color: aliceblue;
+    margin-top: 20px;
+}
+
+/* youtube video css  */
+.video-control {
+    width: 100%;
+    height: auto;
+}
